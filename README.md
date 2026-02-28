@@ -1,0 +1,2 @@
+# Empowering-India-Analysing-The-Evolution-Of-Union-Budget-Allocations-For-Sustainable-Growth
+This project analyzes the evolution of India’s Union Budget allocations and their impact on sustainable growth. It studies sector-wise spending trends, fiscal policies, and capital investments to understand how government priorities have supported economic development, social welfare, and long-term sustainability.
